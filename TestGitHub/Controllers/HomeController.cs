@@ -12,7 +12,9 @@ namespace TestGitHub.Controllers
         {
             int i = 0;
             i = i + 1;
+            i = i + 2;
             return View();
+            //ASP.NET Web pages with Razor syntax 3.0.0.0
         }
 
         public ActionResult About()
