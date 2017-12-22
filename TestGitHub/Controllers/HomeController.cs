@@ -10,6 +10,8 @@ namespace TestGitHub.Controllers
     {
         public ActionResult Index()
         {
+            int i = 0;
+            i = i + 1;
             return View();
         }
 
