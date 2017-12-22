@@ -20,6 +20,7 @@ namespace TestGitHub.Controllers
 
         public AccountController()
         {
+            int i = 0;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )

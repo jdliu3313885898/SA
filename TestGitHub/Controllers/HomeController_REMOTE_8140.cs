@@ -18,10 +18,6 @@ namespace TestGitHub.Controllers
             i = i + 4;
        		i = i + 8;
 		    i = i + 7;
-            i = i + 9;
-            i = i + 9;
-            i = i + 9;
-
             return View();
         }
 
